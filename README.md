@@ -1,3 +1,13 @@
+**Tech Stack**
+
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- Email JS
+- Vite
+- Tailwind CSS
+
 **Prerequisites**
 
 Make sure you have the following installed on your machine:
@@ -24,6 +34,7 @@ npm install --legacy-peer-deps
 On proper installation you should see a new directory called node_modules in your root folder.
 
 **Setting Up Environment Variables(Optional)**
+
 Do the following steps only if you plan on using the EmailJS features of the portal.
 Create a new file named `.env` in the root of your project and add the following content:
 
@@ -42,6 +53,7 @@ npm run dev
 Ctrl+click on the link that shows up in your terminal on running this command to view your build.
 
 **Deploying the project**
+
 Once development is complete in order to deploy your project use the following command to build an optimized version of your project ready for deploying.
 
 ```bash
