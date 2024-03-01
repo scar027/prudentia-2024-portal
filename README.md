@@ -11,8 +11,10 @@ Disclaimer: Vite requires Node.js version 18+. 20+. However, some templates requ
 Hint:Manually install the latest Node.js version for Windows or use nvm to install the latest version on Mac/Linux.
 
 **Cloning the Repository**
+```bash
 git clone git@github.com:scar027/prudentia-2024-portal.git
 cd prudentia-2024-portal
+```
 
 **Installation**
 
